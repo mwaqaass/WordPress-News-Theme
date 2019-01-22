@@ -1,6 +1,8 @@
 # WordPress-News-Theme
 News Theme for WordPress
 
+Consist of featured, popular, comments section and much more all controlled from Dashboard
+
 ![1](https://user-images.githubusercontent.com/33598165/51539739-95d13200-1e76-11e9-8613-f1477b13197e.PNG)
 ![2](https://user-images.githubusercontent.com/33598165/51539740-9669c880-1e76-11e9-9c47-f32016740ab7.PNG)
 ![3](https://user-images.githubusercontent.com/33598165/51539741-9669c880-1e76-11e9-8971-d2d2aef71a02.PNG)
